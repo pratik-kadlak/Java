@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
+        "2. Basics",
         "1. First Steps",
-        "2. Basics"
+        "3. Methods"
     ]
 }
